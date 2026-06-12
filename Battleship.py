@@ -1,1 +1,1 @@
-print("Hello world")
+print("Please specify the size of the board: ")
